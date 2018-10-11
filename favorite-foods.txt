@@ -1,2 +1,5 @@
-apple, chicken,meat, seafood, shrimp.
+apple - Fruit
+chicken - Meat 
+Spinach - Vegetable 
+shrimp - Seafood
 
