@@ -1,3 +1,2 @@
-apple - vegetable
-chicken - meat
-shrimp - seafood
+apple, chicken,meat, seafood, shrimp.
+
